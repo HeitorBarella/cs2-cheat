@@ -1,11 +1,5 @@
-﻿# ASPHYXIA: CS2
-
-## Table of Contents :scroll:
-- [About](#about)
-- [Credits](#credits)
-- [Reminder](#reminder)
-- [License](#license)
-
+﻿# cs2-cheat: CS2
+ 
 ## About
 - Asphyxia is a base that was intended to be a starting point. It is not a cheat itself, but rather a framework for building your own cheat.
 - C++ version: 20
