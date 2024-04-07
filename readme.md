@@ -2,12 +2,11 @@
 
 ## Table of Contents :scroll:
 - [About](#about)
-- [Contact](#contact)
 - [Credits](#credits)
 - [Reminder](#reminder)
 - [License](#license)
 
-## About :information_source:
+## About
 - Asphyxia is a base that was intended to be a starting point. It is not a cheat itself, but rather a framework for building your own cheat.
 - C++ version: 20
 
